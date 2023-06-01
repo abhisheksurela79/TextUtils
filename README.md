@@ -8,6 +8,11 @@
   TextUtils is a React-based web application that provides various text manipulation and analysis functionalities.
 </p>
 
+## Live Demo
+
+A live demo of the application is available [here](https://abhisheksurela79.github.io/TextUtils/).
+
+
 <p align="center">
   <a href="https://github.com/abhisheksurela79" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-abhisheksurela79-blue.svg?logo=github" alt="GitHub">
