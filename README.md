@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-A live demo of the application is available [here]([https://text-utils-psi-swart.vercel.app/](https://textutils.abhisheksurela.in/).
+A live demo of the application is available [here]([https://text-utils-psi-swart.vercel.app/]).
 
 
 <p align="center">
